@@ -11,6 +11,9 @@ Além disso, os dados estão conectados ao Google Sheets por meio de uma extens�
 # Imagem tabelas do Google Big Query
 ## ![Tabelas Google Big Query](https://github.com/HenriqueHideaki/beanalytics-desafio/blob/main/img/big_query.png)
 
+# Extra - Dashboard feito com Streamlit
+## [img dash](https://github.com/HenriqueHideaki/beanalytics-desafio/blob/main/img/dash_steamdb.png)
+
 ## Tecnologias Utilizadas
 - **Python**: Linguagem de programação principal para automação de tarefas de extração, limpeza e processamento de dados.
 - **Pandas**: Biblioteca para manipulação e análise de dados.
