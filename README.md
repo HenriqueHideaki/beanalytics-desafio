@@ -1,5 +1,7 @@
 # beanalytics-desafio
 ## [Link Planilha Google Sheets](https://docs.google.com/spreadsheets/d/1BiI9OwoOecftso-GiGM-x4e7xjfyTsfBzSxHRDleUyA/edit?pli=1#gid=1697636033)
+## [Link do Notebook de Extração](https://colab.research.google.com/drive/1OLBQ9S9_lg4W3_hMEjtXtb_4Bm3dI9W5)
+
 ## ![img](https://github.com/HenriqueHideaki/beanalytics-desafio/blob/main/img/img-desafio-be.webp)
 ## Descrição
 Este projeto tem como objetivo realizar a extração, processamento e carregamento de dados do SteamDB para o Google BigQuery. Os dados extraídos incluem informações de classificações de jogos, top sellers, picos históricos de jogadores e histórico de preços. 
